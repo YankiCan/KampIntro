@@ -37,7 +37,6 @@ namespace HWClassMetotDemo
                 
             }
 
-
             CustomerManager customerManager = new CustomerManager();
 
             Console.WriteLine("Added Customer");
@@ -59,7 +58,6 @@ namespace HWClassMetotDemo
             Console.WriteLine("List of Customers");
             Console.WriteLine("");
             customerManager.ListCustomers(customers);
-
 
         }
     }
