@@ -16,6 +16,11 @@ namespace HWClassMetotDemo
             Console.WriteLine("Registered customer has been removed!" + " Id : "  + customer.Id);
         }
 
+        public void UpdateCustomerInfo(Customer customer)
+        {
+            Console.WriteLine("Customer Information has been updated!" + " Id : " + customer.Id);
+        }
+
         public void ListCustomers(Customer[] customers)
         {
             foreach (Customer customer in customers)

@@ -10,3 +10,5 @@ namespace OOP1
         }
     }
 }
+
+// Classlar ikiye ayrılır: İçerisinde özellik barındıran - operasyon (metot) barındıran
