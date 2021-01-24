@@ -31,10 +31,7 @@ namespace HWClassMetotDemo
                 Console.WriteLine("Surname" + " : " + customer.Surname);
                 Console.WriteLine("Tc No" + " : " + customer.TcNo);
                 Console.WriteLine("Customer No" + " : " + customer.CustomerNo);
-                Console.WriteLine("\n"); ;
-                
-               
-                
+                Console.WriteLine("\n"); ;              
             }
 
             CustomerManager customerManager = new CustomerManager();
@@ -45,15 +42,13 @@ namespace HWClassMetotDemo
             customerManager.AddCustomer(customer2);
 
             Console.WriteLine("\n");
-
-          
+       
             Console.WriteLine("Removed Customer");
             Console.WriteLine("");
             customerManager.RemoveCustomer(customer1);
             customerManager.RemoveCustomer(customer2);
 
             Console.WriteLine("\n");
-
 
             Console.WriteLine("List of Customers");
             Console.WriteLine("");

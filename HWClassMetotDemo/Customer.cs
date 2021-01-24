@@ -11,8 +11,6 @@ namespace HWClassMetotDemo
         public string Surname { get; set; }
         public string TcNo { get; set; }
         public string CustomerNo { get; set; }
-
-
     }
 }
 
