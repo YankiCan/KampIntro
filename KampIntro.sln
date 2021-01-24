@@ -3,29 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{E325CF0E-06F6-47A2-B85C-DBB48D9478AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{E325CF0E-06F6-47A2-B85C-DBB48D9478AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{DD6716DC-B455-46B3-8F40-79976ADA82E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{DD6716DC-B455-46B3-8F40-79976ADA82E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E2ADF61E-EF27-446D-8C72-6EA83DBC7BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E2ADF61E-EF27-446D-8C72-6EA83DBC7BEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{645416B1-EE99-4FF0-9F6B-7C1A93587CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{645416B1-EE99-4FF0-9F6B-7C1A93587CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{EA9EAC86-E856-40DB-B0B0-CC3CC8F54245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{EA9EAC86-E856-40DB-B0B0-CC3CC8F54245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{04656AB3-6D53-4AF9-B0C6-41A0426EB2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{04656AB3-6D53-4AF9-B0C6-41A0426EB2B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{9A616D8A-C73B-4911-9A41-23B9121E5EDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{9A616D8A-C73B-4911-9A41-23B9121E5EDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{AFF800AC-1607-40CF-850F-E304EF7D25E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{AFF800AC-1607-40CF-850F-E304EF7D25E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{8968C1BF-B2B5-4D2E-92F2-DB77D47A0203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{8968C1BF-B2B5-4D2E-92F2-DB77D47A0203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{37C41A4C-899A-401B-A12C-B46C1CA49BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{37C41A4C-899A-401B-A12C-B46C1CA49BB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{5348B810-4229-4098-82A9-41F3166A1FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{5348B810-4229-4098-82A9-41F3166A1FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWProduct", "HWProduct\HWProduct.csproj", "{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWProduct", "HWProduct\HWProduct.csproj", "{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWMethods", "HWMethods\HWMethods.csproj", "{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWClassMetotDemo", "HWClassMetotDemo\HWClassMetotDemo.csproj", "{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
