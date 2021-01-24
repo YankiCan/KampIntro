@@ -29,12 +29,38 @@ namespace HWProduct
 
             Product[] products = new Product[] { product1, product2, product3 };
 
+           
+            Console.WriteLine("Foreach Loop");
+            
             foreach (var product in products)
             {
                 Console.WriteLine(product.Brand + " " + product.Type + " : " + product.Material + " , " + product.Color + " , " + product.Price + " TL " );
             }
 
+
+
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("For Loop");
+
+            for (int i = 0; i < products.Length; i++)
+            {
+                Console.WriteLine(products[i].Brand + " " + products[i].Type + " : " + products[i].Material + " , " + products[i].Color + " , " + products[i].Price + " TL ");
+            }
+
+
+
+
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("While Loop");
+
+            int y = 0;
+            while (y<products.Length)
+            {
+                Console.WriteLine(products[y].Brand + " " + products[y].Type + " : " + products[y].Material + " , " + products[y].Color + " , " + products[y].Price + " TL ");
+                y++;
+            }
         }
+
 
         class Product
         {
