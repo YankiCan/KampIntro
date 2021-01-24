@@ -52,8 +52,8 @@ namespace HWClassMetotDemo
 
             Console.WriteLine("Updated Customer Informations");
             Console.WriteLine("");
-            customerManager.UpdateCustomer(customer1);
-            customerManager.UpdateCustomer(customer2);
+            customerManager.UpdateCustomerInfo(customer1);
+            customerManager.UpdateCustomerInfo(customer2);
 
             Console.WriteLine("\n");
 
