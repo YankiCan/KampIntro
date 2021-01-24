@@ -25,31 +25,40 @@ namespace HWClassMetotDemo
             foreach (Customer customer in customers)
             {
                 Console.WriteLine("Customer Follow-up");
-                Console.WriteLine("                                            ");
+                Console.WriteLine("");
                 Console.WriteLine("Id" + " : " + customer.Id);
                 Console.WriteLine("Name" + " : " + customer.Name);
                 Console.WriteLine("Surname" + " : " + customer.Surname);
                 Console.WriteLine("Tc No" + " : " + customer.TcNo);
                 Console.WriteLine("Customer No" + " : " + customer.CustomerNo);
-                Console.WriteLine("                                            ");
-                Console.WriteLine("-------------------------------");
-                Console.WriteLine("                                            ");
+                Console.WriteLine("\n"); ;
+                
+               
+                
             }
 
 
             CustomerManager customerManager = new CustomerManager();
 
             Console.WriteLine("Added Customer");
-            Console.WriteLine("                                            ");
+            Console.WriteLine("");
             customerManager.AddCustomer(customer1);
             customerManager.AddCustomer(customer2);
 
             Console.WriteLine("\n");
 
+          
             Console.WriteLine("Removed Customer");
-            Console.WriteLine("                                            ");
+            Console.WriteLine("");
             customerManager.RemoveCustomer(customer1);
             customerManager.RemoveCustomer(customer2);
+
+            Console.WriteLine("\n");
+
+
+            Console.WriteLine("List of Customers");
+            Console.WriteLine("");
+            customerManager.ListCustomers(customers);
 
 
         }

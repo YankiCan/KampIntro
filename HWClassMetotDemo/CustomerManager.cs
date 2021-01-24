@@ -8,15 +8,21 @@ namespace HWClassMetotDemo
     {
         public void AddCustomer(Customer customer)
         {
-            Console.WriteLine("New customer has been added!" + " Id" + " : " + customer.Id);
+            Console.WriteLine("New customer has been added!" + " Id : " + customer.Id);
         }
 
         public void RemoveCustomer(Customer customer)
         {
-            Console.WriteLine("Registered customer has been removed" + " Id" + " : " + customer.Id);
+            Console.WriteLine("Registered customer has been removed!" + " Id : "  + customer.Id);
         }
 
-
+        public void ListCustomers(Customer[] customers)
+        {
+            foreach (Customer customer in customers)
+            {
+                Console.WriteLine(customer.Name + " " + customer.Surname + " , " + " Id : " + customer.Id);
+            }
+        }
     }
 }
 
