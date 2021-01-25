@@ -10,10 +10,10 @@ namespace OOP1
         public int CategoryId { get; set; }
         public string ProductName { get; set; }
         public double UnitPrice { get; set; }
-        public UnitInStock MyProperty { get; set; }
+        public int UnitsInStock { get; set; }
+
 
     }
 }
 
-// Bu tip classlarda sadece özellik olur.
-// CRUD Operasyonlar - Create, Read, Update, Delete
+// Bu tip classlarda sadece özellik barındırır.
