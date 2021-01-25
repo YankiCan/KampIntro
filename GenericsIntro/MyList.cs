@@ -28,7 +28,19 @@ namespace GenericsIntro
 
             items[items.Length - 1] = item; // -1 olmasının sebebi eleman sayısı 0 dan başladığından items uzunluğunun bir eksiği olması gerektiğidir. 
             // Eklenmek istenen eleman bu kod ile eklenebilir. 
+
         }
+
+        public int Length // Henüz bu yapıyı öğrenmedik, kodu test etmek için kullanıyoruz! Eleman sayısını verir.
+        {
+            get { return items.Length; }
+        }
+
+        public T[] Items // Elemanları görmek için kullanılır. 
+        {
+            get { return items; }
+        }
+
     }
 }
 
