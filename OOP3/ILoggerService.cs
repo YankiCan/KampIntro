@@ -9,3 +9,6 @@ namespace OOP3
         void Log();
     }
 }
+
+// class yerine interface seçilerek oluşturuldu. 
+// interface olduğu için sadece imza konulabilir 

@@ -8,20 +8,12 @@ namespace OOP3
     {
         public void Log()
         {
-            Console.WriteLine("Veritabanına loglandı");
+            Console.WriteLine("Veri tabanına loglandı");
         }
     }
+
 }
 
 
-namespace OOP3
-{
-    class FileLoggerService : ILoggerService
-    {
-        public void Log()
-        {
-            Console.WriteLine("Dosyaya loglandı");
-        }
-    }
-}
 
+// FilebaseLoggerService DatabaseLoggerService gibi buraya yazıldı ve ampulden Move type to FileLoggerService seçilerek ayrı dosyaya taşındı. 

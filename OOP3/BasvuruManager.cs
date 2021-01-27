@@ -7,29 +7,35 @@ namespace OOP3
     class BasvuruManager
     {
         // Method Injection
-        public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
+
+       //public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
+        public void BasvuruYap(IKrediManager krediManager, List<ILoggerService> loggerServices) // Birden çok log çağırmak için
         {
             // Başvuran bilgilerini değerlendirme
 
-            // Bu yapılırsa tüm başvurular konut kredisine bağımlı haline getirir!
+            // Bu yapılırsa tüm başvurular konut kredisi üzerinden hesaplanır!
             //KonutKrediManager konutKrediManager = new KonutKrediManager(); 
             //konutKrediManager.Hesapla();
 
-            krediManager.Hesapla(); // Bu formatta hangi kredi gönderilirse o çalışır.
-            loggerService.Log();
+            krediManager.Hesapla(); // Bu formatta hangi kredi gönderilirse o çalışır. 
+            //loggerService.Log(); // Hangi logger service gönderilmişse onu logla
+
+            foreach (var loggerService in loggerServices)
+            {
+                loggerService.Log();
+            }
         }
 
-        public void KrediOnBilgilendirmesiYap(List <IKrediManager> krediler)
+
+        // Aynı veri türünde belirsiz sayıda bir veri grubu oluşturmak için liste kullanılır. 
+        public void KrediOnBilgilendirmesiYap(List<IKrediManager>krediler) // IKrediManager türünde liste eklenir
         {
             foreach (var kredi in krediler)
             {
                 kredi.Hesapla();
             }
         }
-
-        internal void BasvuruYap(TasıtKrediManager tasıtKrediManager, object filelogger)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
+
+// Constructor Injection ödevlerde izle!

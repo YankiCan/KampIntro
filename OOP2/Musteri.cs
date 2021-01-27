@@ -12,3 +12,5 @@ namespace OOP2
     }
 }
 
+// Classlar içerisinde özellk ve operasyon tutanlar olarak ikiye ayrılır. 
+// Özellikler prop ile oluşturulur. 
