@@ -35,7 +35,7 @@ namespace DegerVeReferansTipler
     }
 }
 
-// Değer Tip; int, decimal, flood, double, bool
+// Değer Tip (Value Types) ; int, decimal, flood, double, bool
 // Referans Tip; array, class, interface
 // Bellekte stack ve heap alanları vardır. 
 // Değer tipler stack içinde gerçekleşir. 
