@@ -33,11 +33,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWClassMetotDemo", "HWClass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWReferenceTypes", "HWReferenceTypes\HWReferenceTypes.csproj", "{F235A0EC-C849-40F2-A1BF-6BB29EE3563E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWConstructors", "HWConstructors\HWConstructors.csproj", "{E74B3939-AD05-4A57-8EBA-BD09365CC304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWConstructors", "HWConstructors\HWConstructors.csproj", "{E74B3939-AD05-4A57-8EBA-BD09365CC304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWGenerics", "HWGenerics\HWGenerics.csproj", "{56AEB7F0-882C-498E-8417-03B9C1E35FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWGenerics", "HWGenerics\HWGenerics.csproj", "{56AEB7F0-882C-498E-8417-03B9C1E35FC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWDictionary", "HWDictionary\HWDictionary.csproj", "{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWDictionary", "HWDictionary\HWDictionary.csproj", "{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWClasses", "HWClasses\HWClasses.csproj", "{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWRecapDemo1", "HWRecapDemo1\HWRecapDemo1.csproj", "{1226B8A7-D51E-435B-853B-192DE44A77E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInterfaces", "HWInterfaces\HWInterfaces.csproj", "{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInterfacesDemo", "HWInterfacesDemo\HWInterfacesDemo.csproj", "{78762634-B151-4D3C-9E76-BBBD35C49671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInheritance", "HWInheritance\HWInheritance.csproj", "{08E67E27-A668-4EB7-A803-B400DEC9590E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +127,26 @@ Global
 		{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1226B8A7-D51E-435B-853B-192DE44A77E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1226B8A7-D51E-435B-853B-192DE44A77E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1226B8A7-D51E-435B-853B-192DE44A77E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1226B8A7-D51E-435B-853B-192DE44A77E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78762634-B151-4D3C-9E76-BBBD35C49671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78762634-B151-4D3C-9E76-BBBD35C49671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78762634-B151-4D3C-9E76-BBBD35C49671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78762634-B151-4D3C-9E76-BBBD35C49671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
