@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWInheritance
+namespace HW_12_Inheritance
 {
     class Program
     {

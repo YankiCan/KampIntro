@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KampIntro
+namespace _01_KampIntro
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWClassMetotDemo
+namespace HW_03_ClassMetotDemo
 {
     class Program
     {

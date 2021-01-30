@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matematik
+namespace _05_Matematik
 {
     class Program
     {

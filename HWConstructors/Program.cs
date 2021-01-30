@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWConstructors
+namespace HW_05_Constructors
 {
     class Program
     {

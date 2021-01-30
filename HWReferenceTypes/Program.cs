@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWReferenceTypes
+namespace HW_04_ReferenceTypes
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GenericsIntro
+namespace _09_GenericsIntro
 {
     class Program
     {

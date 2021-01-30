@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic; // List yazıldığından çıkan ampulden eklenilmesi gereklidir.
 
-namespace Koleksiyonlar
+namespace _08_Koleksiyonlar
 {
     class Program
     {

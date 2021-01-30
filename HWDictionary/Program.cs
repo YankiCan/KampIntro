@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace HWDictionary
+namespace HW_07_Dictionary
 {
     class Program
     {

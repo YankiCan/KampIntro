@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HWMethods
+namespace HW_02_Methods
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWInterfaces
+namespace HW_10_Interfaces
 {
     class Program
     {

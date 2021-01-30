@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DegerVeReferansTipler
+namespace _06_DegerVeReferansTipler
 {
     class Program
     {

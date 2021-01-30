@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HWClasses
+namespace HW_08_Classes
 {
     class ProductManager
     {

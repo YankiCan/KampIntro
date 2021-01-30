@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP1
+namespace _07_OOP1
 {
     class ProductManager
     {

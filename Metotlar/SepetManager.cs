@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Metotlar
+namespace _04_Metotlar
 {
     class SepetManager
     {

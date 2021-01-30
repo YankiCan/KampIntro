@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP3
+namespace _11_OOP3
 {
     interface IKrediManager // Okunurluğu arttırmak çin Kredi Manager I ile başlar, Interface olduğu tanımlanır.
         // İmzanın aynı olduğu ama içerisinin farklı olduğu durumlarda class olarak değil interface olarak oluşturulur. 

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic; // List yazılınca eklnemelidir!
 
-namespace HWGenerics
+namespace HW_06_Generics
 {
     class Program
     {

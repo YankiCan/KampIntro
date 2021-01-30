@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOP2
+namespace _10_OOP2
 {
     class Program
     {

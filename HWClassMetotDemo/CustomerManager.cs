@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HWClassMetotDemo
+namespace HW_03_ClassMetotDemo
 {
     class CustomerManager
     {

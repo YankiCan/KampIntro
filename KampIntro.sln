@@ -3,51 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{E325CF0E-06F6-47A2-B85C-DBB48D9478AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-KampIntro", "KampIntro\01-KampIntro.csproj", "{E325CF0E-06F6-47A2-B85C-DBB48D9478AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{DD6716DC-B455-46B3-8F40-79976ADA82E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Donguler", "Donguler\02-Donguler.csproj", "{DD6716DC-B455-46B3-8F40-79976ADA82E3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E2ADF61E-EF27-446D-8C72-6EA83DBC7BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-ClassIntro", "ClassIntro\03-ClassIntro.csproj", "{E2ADF61E-EF27-446D-8C72-6EA83DBC7BEC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{645416B1-EE99-4FF0-9F6B-7C1A93587CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-Metotlar", "Metotlar\04-Metotlar.csproj", "{645416B1-EE99-4FF0-9F6B-7C1A93587CA0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{EA9EAC86-E856-40DB-B0B0-CC3CC8F54245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Matematik", "Matematik\05-Matematik.csproj", "{EA9EAC86-E856-40DB-B0B0-CC3CC8F54245}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{04656AB3-6D53-4AF9-B0C6-41A0426EB2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-DegerVeReferansTipler", "DegerVeReferansTipler\06-DegerVeReferansTipler.csproj", "{04656AB3-6D53-4AF9-B0C6-41A0426EB2B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{9A616D8A-C73B-4911-9A41-23B9121E5EDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Koleksiyonlar", "Koleksiyonlar\08-Koleksiyonlar.csproj", "{9A616D8A-C73B-4911-9A41-23B9121E5EDE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{AFF800AC-1607-40CF-850F-E304EF7D25E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-OOP1", "OOP1\07-OOP1.csproj", "{AFF800AC-1607-40CF-850F-E304EF7D25E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{8968C1BF-B2B5-4D2E-92F2-DB77D47A0203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-GenericsIntro", "GenericsIntro\09-GenericsIntro.csproj", "{8968C1BF-B2B5-4D2E-92F2-DB77D47A0203}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{37C41A4C-899A-401B-A12C-B46C1CA49BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-OOP2", "OOP2\10-OOP2.csproj", "{37C41A4C-899A-401B-A12C-B46C1CA49BB1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{5348B810-4229-4098-82A9-41F3166A1FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-OOP3", "OOP3\11-OOP3.csproj", "{5348B810-4229-4098-82A9-41F3166A1FE8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWProduct", "HWProduct\HWProduct.csproj", "{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW01-Product", "HWProduct\HW01-Product.csproj", "{BC4BE549-7F52-40FD-A45C-FC12509D7CA3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWMethods", "HWMethods\HWMethods.csproj", "{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW02-Methods", "HWMethods\HW02-Methods.csproj", "{5E071D7B-C8C2-4AB2-A5C9-6ECEC2D0CE1B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWClassMetotDemo", "HWClassMetotDemo\HWClassMetotDemo.csproj", "{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03-ClassMetotDemo", "HWClassMetotDemo\HW03-ClassMetotDemo.csproj", "{DAE0F3AD-ABE2-4B62-9270-04BDAFAA7B85}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWReferenceTypes", "HWReferenceTypes\HWReferenceTypes.csproj", "{F235A0EC-C849-40F2-A1BF-6BB29EE3563E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW04-ReferenceTypes", "HWReferenceTypes\HW04-ReferenceTypes.csproj", "{F235A0EC-C849-40F2-A1BF-6BB29EE3563E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWConstructors", "HWConstructors\HWConstructors.csproj", "{E74B3939-AD05-4A57-8EBA-BD09365CC304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW05-Constructors", "HWConstructors\HW05-Constructors.csproj", "{E74B3939-AD05-4A57-8EBA-BD09365CC304}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWGenerics", "HWGenerics\HWGenerics.csproj", "{56AEB7F0-882C-498E-8417-03B9C1E35FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06-Generics", "HWGenerics\HW06-Generics.csproj", "{56AEB7F0-882C-498E-8417-03B9C1E35FC8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWDictionary", "HWDictionary\HWDictionary.csproj", "{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW07-Dictionary", "HWDictionary\HW07-Dictionary.csproj", "{747A6FC1-45E7-4C7A-9513-B75F617AEC1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWClasses", "HWClasses\HWClasses.csproj", "{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW08-Classes", "HWClasses\HW08-Classes.csproj", "{AB5A5057-DF0B-4E06-A72E-73E1A70C1D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWRecapDemo1", "HWRecapDemo1\HWRecapDemo1.csproj", "{1226B8A7-D51E-435B-853B-192DE44A77E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW09-RecapDemo1", "HWRecapDemo1\HW09-RecapDemo1.csproj", "{1226B8A7-D51E-435B-853B-192DE44A77E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInterfaces", "HWInterfaces\HWInterfaces.csproj", "{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW10-Interfaces", "HWInterfaces\HW10-Interfaces.csproj", "{A765CF5C-A675-4E84-8EA8-6EB38C11E08C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInterfacesDemo", "HWInterfacesDemo\HWInterfacesDemo.csproj", "{78762634-B151-4D3C-9E76-BBBD35C49671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW11-InterfacesDemo", "HWInterfacesDemo\HW11-InterfacesDemo.csproj", "{78762634-B151-4D3C-9E76-BBBD35C49671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWInheritance", "HWInheritance\HWInheritance.csproj", "{08E67E27-A668-4EB7-A803-B400DEC9590E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW12-Inheritance", "HWInheritance\HW12-Inheritance.csproj", "{08E67E27-A668-4EB7-A803-B400DEC9590E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW13-Interfaces", "HWInterfaces2\HW13-Interfaces.csproj", "{C1B49AE0-5D38-4D93-A9A2-A213CB11E6D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E67E27-A668-4EB7-A803-B400DEC9590E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B49AE0-5D38-4D93-A9A2-A213CB11E6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B49AE0-5D38-4D93-A9A2-A213CB11E6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B49AE0-5D38-4D93-A9A2-A213CB11E6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B49AE0-5D38-4D93-A9A2-A213CB11E6D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

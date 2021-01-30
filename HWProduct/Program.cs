@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HWProduct
+namespace HW_01_Product
 {
     class Program
     {

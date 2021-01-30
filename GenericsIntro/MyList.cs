@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GenericsIntro
+namespace _09_GenericsIntro
 {
     class MyList<T> // Type - Generic 1 tane değer alıyorsa T olarak yazılır. Verilen tipe göre aşağısındaki kodlar yapılandırılır. 
     {

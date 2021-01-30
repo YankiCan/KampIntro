@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP2
+namespace _10_OOP2
 {
     class Musteri
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace OOP3
+namespace _11_OOP3
 {
     class Program
     {

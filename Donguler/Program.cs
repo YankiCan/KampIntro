@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Donguler
+namespace _02_Donguler
 {
     class Program
     {

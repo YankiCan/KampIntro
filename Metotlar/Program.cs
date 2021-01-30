@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Metotlar
+namespace _04_Metotlar
 {
     class Program
     {

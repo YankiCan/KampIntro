@@ -1,5 +1,5 @@
 ﻿
-namespace HWRecapDemo1
+namespace HW_09_RecapDemo1
 {
     partial class Form1
     {

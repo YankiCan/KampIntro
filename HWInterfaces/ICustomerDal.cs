@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HWInterfaces
+namespace HW_10_Interfaces
 {
     interface ICustomerDal // data access layer - veri işlerini yapmak için kullanılır.
         // Oracle vb. destekli sistemler yazılmak istendiğinde (her biri için kullanılan teknoloji farklıdır), her bir sistem için ICustomerDal ayrı ayrı implemente edilmelidir. 
